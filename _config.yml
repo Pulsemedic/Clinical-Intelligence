@@ -1,0 +1,8 @@
+title: Clinical-intelligence
+description: "Clinical Intelligence/ Clinical business intelligence "
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
